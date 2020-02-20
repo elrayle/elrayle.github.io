@@ -70,3 +70,4 @@ Command              | Aliases          | Example        | Comments
 `where` or `backtrace` | `w` or `bt`    | `w`            | display backtrace (`w` and `bt` are the same command)
 &nbsp;               |                  | `bt`           | display backtrace
 
+
