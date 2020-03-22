@@ -1,7 +1,7 @@
 <div id="page_title">Coronavirus COVID-19 Confirmed Cases</div>
 <div id="covid19_graph">
-    <p class="last_updated">Last updated: March 21, 2020  4:14pm ET</p>
-    <img src="graphs/2020-03-21_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+    <p class="last_updated">Last updated: March 22, 2020  2:15pm ET</p>
+    <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
 </div>
 
 <div class="data_sources">
