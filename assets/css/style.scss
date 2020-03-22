@@ -127,21 +127,23 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-style: italic;
   color: #696969;
-  text-align: left;
+  text-align: center;
 }
 
 #page_title {
   font-size: 24px;
   color: #ffcc00;
   font-weight: bold;
+  text-align: center;
 }
 
 .data_sources {
-  padding-top: 20px;
+  padding-top: 75px;
+  padding-left: 20px;
   font-size: 12px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #696969;
+  color: #a6a6a6;
   text-align: left;
 
   li {
