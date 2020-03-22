@@ -9,11 +9,11 @@ Links to data sources:
 <ul>
   <li>World and US graphs: 
     <ul>
-      <li>end of day data: [Johns Hopkins CCSEGISandData](https://github.com/CSSEGISandData)</li>
-      <li>during the day data: [Johns Hopkins map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR10wt9a2d778FvxQ1MOg_qw5aL80ypVBRVkb-ouk233xEQxuXC6c9XHSGY#/bda7594740fd40299423467b48e9ecf6)</li>
+      <li>end of day data: <a href="https://github.com/CSSEGISandData">Johns Hopkins CCSEGISandData</a></li>
+      <li>during the day data: <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR10wt9a2d778FvxQ1MOg_qw5aL80ypVBRVkb-ouk233xEQxuXC6c9XHSGY#/bda7594740fd40299423467b48e9ecf6">Johns Hopkins map</a></li>
     </ul></li> 
-  <li>New York state and county graphs: [New York County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases)
+  <li>New York state and county graphs: <a href="https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases">New York County by County Breakdown of Positive Cases</a>)
  https://github.com/CSSEGISandData</li>
-  <li>[Consolidated data](https://github.com/elrayle/elrayle.github.io/blob/master/covid19/data/covid19_by_the_numbers.xlsx) from these sources driving the graphs</li>
+  <li><a href="https://github.com/elrayle/elrayle.github.io/blob/master/covid19/data/covid19_by_the_numbers.xlsx">Consolidated data</a> from these sources driving the graphs</li>
 </ul>
 </div>
