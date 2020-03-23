@@ -37,7 +37,7 @@
     </div>
     <div id="auto-width-display">
         <picture>
-            <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1500px)" />
+            <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1350px)" />
             <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png">
             <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
         </picture>
