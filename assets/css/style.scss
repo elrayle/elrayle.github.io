@@ -171,9 +171,16 @@ div#graph-width-selector {
   font-style: italic;
   color: #696969;
   text-align: center;
-  
+
   span {
+    cursor:pointer;
+    font-weight:400;
+    text-decoration:none;
     color: #a6a459;
+  }
+
+  span:hover {
+    color: #ffeb9b;
   }
 }
 
