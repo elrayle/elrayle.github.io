@@ -31,9 +31,9 @@
 <div id="covid19-graph">
     <p class="last-updated">Last updated: March 22, 2020  2:15pm ET</p>
     <div id="graph-width-selector">
-      Display: <a href="" onclick="showAuto()">auto</a> | 
-      <a href="" onclick="showWide()">wide</a> | 
-      <a href="" onclick="showNarrow()">narrow</a> 
+      Display: <span onclick="showAuto()">auto</span> | 
+      <span onclick="showWide()">wide</span> | 
+      <span onclick="showNarrow()">narrow</span> 
     </div>
     <div id="auto-width-display">
         <picture>
