@@ -1,11 +1,53 @@
+<script>
+  function showAuto() {
+    var auto_width = document.getElementById("auto-width-display");
+    var wide = document.getElementById("wide-display");
+    var narrow = document.getElementById("narrow-display");
+    auto_width.style.display = "block";
+    wide.style.display = "none";
+    narrow.style.display = "none";
+  }
+
+  function showWide() {
+    var auto_width = document.getElementById("auto-width-display");
+    var wide = document.getElementById("wide-display");
+    var narrow = document.getElementById("narrow-display");
+    auto_width.style.display = "none";
+    wide.style.display = "block";
+    narrow.style.display = "none";
+  }
+
+  function showNarrow() {
+    var auto_width = document.getElementById("auto-width-display");
+    var wide = document.getElementById("wide-display");
+    var narrow = document.getElementById("narrow-display");
+    auto_width.style.display = "none";
+    wide.style.display = "none";
+    narrow.style.display = "block";
+  }
+</script>
+
 <div id="page-title">Coronavirus COVID-19 Confirmed Cases</div>
 <div id="covid19-graph">
     <p class="last-updated">Last updated: March 22, 2020  2:15pm ET</p>
-    <picture>
-        <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1500px)" />
-        <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png">
-        <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
-    </picture>
+    <div id="graph-width-selector">
+      Display: <span onclick="showAuto()">auto</span> | 
+      <span onclick="showWide()">wide</span> | 
+      <span onclick="showNarrow()">narrow</span> 
+    </div>
+    <div id="auto-width-display">
+        <picture>
+            <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1350px)" />
+            <source srcset="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png">
+            <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
+        </picture>
+    </div>
+    <div id="wide-display">
+        <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+    </div>
+    <div id="narrow-display">
+        <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+    </div>  
 </div>
 
 <div class="center-block">
