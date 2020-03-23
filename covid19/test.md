@@ -46,7 +46,7 @@
         <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>
     <div id="narrow-display">
-        <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+        <img src="graphs/2020-03-22_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>  
 </div>
 
