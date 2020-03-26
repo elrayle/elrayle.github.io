@@ -29,7 +29,7 @@
 
 <div id="page-title">Coronavirus COVID-19 Confirmed Cases</div>
 <div id="covid19-graph">
-    <p class="last-updated">Last updated: March 25, 2020  3:26pm ET</p>
+    <p class="last-updated">Last updated: March 25, 2020  8:33pm ET</p>
     <div id="graph-width-selector">
       Display: <span onclick="showAuto()">auto</span> | 
       <span onclick="showWide()">wide</span> | 
