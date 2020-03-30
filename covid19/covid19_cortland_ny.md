@@ -82,15 +82,15 @@
         </ul></li> 
       <li><a href="https://github.com/elrayle/elrayle.github.io/blob/master/covid19/data" target="_blank">Consolidated data</a> from these sources driving the graphs on this site</li>
     </ul>
-    <p>Counties considered to be surrounding counties for Cortland County, NY:</p>
+    <p>Counties considered to be surrounding counties for <a href="http://www.cortland-co.org/432/Health-Department" target="_blank">Cortland County, NY</a>:</p>
     <ul>
-      <li>Tompkins</li>
-      <li>Cayuga</li>
-      <li>Onondaga</li>
-      <li>Madison</li>
-      <li>Chenango</li>
-      <li>Broome</li>
-      <li>Tioga</li>
+      <li><a href="https://tompkinscountyny.gov/health" target="_blank">Tompkins</a></li>
+      <li><a href="https://www.cayugacounty.us/CivicAlerts.aspx?AID=265" target="_blank">Cayuga</a></li>
+      <li><a href="https://socpa.maps.arcgis.com/apps/opsdashboard/index.html#/7bd218bc8be04b209c0b80a83fc2eba5" target="_blank">Onondaga</a></li>
+      <li><a href="https://www.madisoncounty.ny.gov/CivicAlerts.aspx?AID=204" target="_blank">Madison</a></li>
+      <li><a href="https://www.co.chenango.ny.us/public-health/nursing/virus.php" target="_blank">Chenango</a></li>
+      <li><a href="http://www.gobroomecounty.com/hd/coronavirus" target="_blank">Broome</a></li>
+      <li><a href="https://www.tiogacountyny.com/departments/public-health/" target="_blank">Tioga</a> (expand COVID-19 Resources)</li>
     </ul>
     </div>
   </div>
