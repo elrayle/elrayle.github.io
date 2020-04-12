@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // graph section
-div#graph-width-selector {
+div#covid19-page-selector, div#graph-width-selector  {
   font-size: 12px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -145,14 +145,14 @@ div#graph-width-selector {
   color: #b3b3b3;
   text-align: center;
 
-  span {
+  span, a {
     cursor:pointer;
     font-weight:400;
     text-decoration:none;
     color: #a6a459;
   }
 
-  span:hover {
+  span:hover, a:hover {
     color: #ffeb9b;
   }
 }
