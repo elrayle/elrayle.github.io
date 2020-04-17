@@ -51,6 +51,7 @@
     <div id="narrow-display">
         <img src="graphs/2020-04-16_world-us-ny-cortland_deaths_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>  
+    <p class="note">NOTE: A change in the reporting of deaths to include presumed COVID-19 deaths caused a spike in the number of reported deaths on 04-16-2020.</p>
 </div>
 
 <div class="center-block">
