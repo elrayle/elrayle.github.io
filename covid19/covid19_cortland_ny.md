@@ -32,7 +32,7 @@
     View: <a href="covid19_deaths_cortland_ny.html">Reported Deaths</a>
 </div>
 <div id="covid19-graph">
-    <p class="last-updated">Last updated: April 17, 2020  7:50pm ET</p>
+    <p class="last-updated">Last updated: April 18, 2020  10:00pm ET</p>
     <div id="graph-width-selector">
       Display: <span onclick="showAuto()">auto</span> | 
       <span onclick="showWide()">wide</span> | 
@@ -40,16 +40,16 @@
     </div>
     <div id="auto-width-display">
         <picture>
-            <source srcset="graphs/2020-04-17_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1350px)" />
-            <source srcset="graphs/2020-04-17_world-us-ny-cortland_confirmed_cases_graphs.png">
-            <img src="graphs/2020-04-17_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
+            <source srcset="graphs/2020-04-18_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" media="(max-width: 1350px)" />
+            <source srcset="graphs/2020-04-18_world-us-ny-cortland_confirmed_cases_graphs.png">
+            <img src="graphs/2020-04-18_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
         </picture>
     </div>
     <div id="wide-display">
-        <img src="graphs/2020-04-17_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+        <img src="graphs/2020-04-18_world-us-ny-cortland_confirmed_cases_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>
     <div id="narrow-display">
-        <img src="graphs/2020-04-17_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+        <img src="graphs/2020-04-18_world-us-ny-cortland_confirmed_cases_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>  
 </div>
 
