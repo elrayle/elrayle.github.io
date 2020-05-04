@@ -32,7 +32,7 @@
     View: <a href="covid19_cortland_ny.html">Confirmed Cases</a>
 </div>
 <div id="covid19-graph">
-    <p class="last-updated">Last updated: May 1, 2020  10:50pm ET</p>
+    <p class="last-updated">Last updated: May 2, 2020  10:50pm ET</p>
     <div id="graph-width-selector">
       Display: <span onclick="showAuto()">auto</span> | 
       <span onclick="showWide()">wide</span> | 
@@ -40,16 +40,16 @@
     </div>
     <div id="auto-width-display">
         <picture>
-            <source srcset="graphs/2020-05-01_world-us-ny-cortland_reported_deaths_graphs_narrow.png" media="(max-width: 1350px)" />
-            <source srcset="graphs/2020-05-01_world-us-ny-cortland_reported_deaths_graphs.png">
-            <img src="graphs/2020-05-01_world-us-ny-cortland_reported_deaths_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
+            <source srcset="graphs/2020-05-02_world-us-ny-cortland_reported_deaths_graphs_narrow.png" media="(max-width: 1350px)" />
+            <source srcset="graphs/2020-05-02_world-us-ny-cortland_reported_deaths_graphs.png">
+            <img src="graphs/2020-05-02_world-us-ny-cortland_reported_deaths_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" style="width:auto" />
         </picture>
     </div>
     <div id="wide-display">
-        <img src="graphs/2020-05-01_world-us-ny-cortland_reported_deaths_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+        <img src="graphs/2020-05-02_world-us-ny-cortland_reported_deaths_graphs.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>
     <div id="narrow-display">
-        <img src="graphs/2020-05-01_world-us-ny-cortland_reported_deaths_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
+        <img src="graphs/2020-05-02_world-us-ny-cortland_reported_deaths_graphs_narrow.png" alt="Graphs for World, US, NY, and Cortland County and surrounding counties" />
     </div>  
     <p class="note">NOTE: A change in the reporting of deaths to include presumed COVID-19 deaths caused a spike in the number of reported deaths on 04-16-2020.</p>
 </div>
