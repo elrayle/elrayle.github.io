@@ -1,7 +1,7 @@
 ----
 
 
-## [COVID19 Cortland County, NY Tracking](covid19/README.md)
+## [Covid Region Tracker for Cortland County, NY and Surrounding Counties](https://elrayle.github.io/covid_tracker/index.html)
 
 
 ----
