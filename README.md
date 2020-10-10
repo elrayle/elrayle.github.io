@@ -1,7 +1,10 @@
 ----
 
 
-## [Covid Region Tracker for Cortland County, NY and Surrounding Counties](https://elrayle.github.io/covid_tracker/index.html)
+## Covid Region Trackers
+
+[Cortland County, NY](https://elrayle.github.io/covid_tracker/index.html)
+[Augusta, GA Metro](https://elrayle.github.io/covid_tracker/index.html)
 
 
 ----
