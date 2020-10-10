@@ -88,8 +88,8 @@ div.navbar-sitetitle a {
 .navbar-tagline {
   font-size: small;
   margin-top: -2px;
+  color: #1d0505;
 }
-
 
 .navbar-inverse {
   background-color: #fff;
@@ -124,26 +124,31 @@ img.company-logo {
   border: 0;
 }
 
-a {
-  text-decoration: none;
-}
-
-a:any-link {
-  text-decoration: none;
-  color: #B31B1B;
-  cursor: pointer;
-}
-
-a:hover {
-  text-decoration: underline;
-}
 
 .post-header {
   margin: 100px 0 30px 20px;
 }
 
+h1.post-header {
+  color: #1d0505;
+}
+
 .post-content {
   margin: 30px 0 30px 50px;
+}
+
+a.navbar {
+  text-decoration: none;
+}
+
+a.post-content:any-link {
+  text-decoration: none;
+  color: #B31B1B;
+  cursor: pointer;
+}
+
+a.post-content:hover {
+  text-decoration: underline;
 }
 
 footer {
