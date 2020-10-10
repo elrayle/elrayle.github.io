@@ -146,19 +146,19 @@ a.navbar {
   text-decoration: none;
 }
 
-a.post-content {
+div.post-content a {
   text-decoration: none;
   color: #B31B1B;
   cursor: pointer;
 }
 
-a.post-content:hover {
+div.post-content a:hover {
   text-decoration: underline;
 }
 
 footer a {
   text-decoration: none;
-  color: #B31B1B;
+  color: #248EC2;
   cursor: pointer;
 }
 
