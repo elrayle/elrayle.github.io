@@ -34,7 +34,7 @@ layout: covid_tracker_layout
 
       <div class="post-content">
         <p><a href="https://elrayle.github.io/covid_tracker/index.html">Cortland County, NY</a></p>
-        <p><a href="https://elrayle.github.io/covid_tracker/index.html">Augusta, GA Metro</a></p>
+        <p><a href="https://elrayle.github.io/covid_tracker_augusta_ga/index.html">Augusta, GA Metro</a></p>
       </div>
     </div>
   </div>  
